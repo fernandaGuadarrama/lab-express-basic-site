@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    justify-content: center;
+}
+
+.cats{
+padding-left: 15%;
+}
+
+body {
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    color: #f1c0e8;
+
+}
+
+.container{
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 35%;
+
+}
+
+.botones {
+    padding-left: 40% ;
+}
